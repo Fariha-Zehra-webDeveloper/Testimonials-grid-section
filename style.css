@@ -61,7 +61,7 @@ body{
     line-height: 1.2;
     
 }
-.user-info h4{
+.user-info h2{
     font-size: 11px;
     opacity: 0.5;
     font-weight: var(--fw-medium);
@@ -183,6 +183,7 @@ body{
     color: var(--clr-white);
     opacity: 0.6;
 }
+
 .black .header img{
     border: 2px solid var(--clr-grey-500);
 }
